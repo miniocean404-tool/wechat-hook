@@ -1,11 +1,10 @@
 # wxhelper 使用
 
 1. 文章网址：https://www.uniqchat.com/58.html
-
 2. wxhelper 破解 hook dll ：https://github.com/ttttupup/wxhelper
-
 3. 注入工具：https://github.com/nefarius/Injector
-4. 微信历史版本：https://github.com/tom-snow/wechat-windows-versions/releases
+4. 注入工具 2：https://github.com/winsiderss/systeminformer、https://processhacker.sourceforge.io/ 未使用过
+5. 微信历史版本：https://github.com/tom-snow/wechat-windows-versions/releases
 
 # 基本原理
 
