@@ -36,7 +36,7 @@ C:\Windows\System32>D:
 D:\>cd software
 ```
 
-3. 粘贴并运行以下命令
+3. 粘贴并运行以下命令(自己的联想电脑是使用 64 位 Injector.exe)
 
 ```
 Injector.exe -n WeChat.exe -i wxhelper3.9.8.25.dll
